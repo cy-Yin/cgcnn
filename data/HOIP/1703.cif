@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2ZnGeI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30350433
+_cell_length_b   11.73586102
+_cell_length_c   8.30352517
+_cell_angle_alpha   89.99872663
+_cell_angle_beta   89.99999786
+_cell_angle_gamma   89.99998414
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2ZnGeI6
+_chemical_formula_sum   'Cs4 Zn2 Ge2 I12'
+_cell_volume   809.16833738
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49973482  0.24966208  0.49973695  1
+  Cs  Cs1  1  0.99972827  0.25025459  0.00024930  1
+  Cs  Cs2  1  0.50025960  0.74966094  0.50026105  1
+  Cs  Cs3  1  0.00026692  0.75025324  0.99971451  1
+  Zn  Zn4  1  0.49999996  0.99994886  0.99972560  1
+  Zn  Zn5  1  0.99999579  0.49996978  0.50025862  1
+  Ge  Ge6  1  0.99999870  0.99997130  0.49968871  1
+  Ge  Ge7  1  0.49999405  0.49995448  0.00028996  1
+  I  I8  1  0.49975532  0.24560896  0.99917937  1
+  I  I9  1  0.25387522  0.00028765  0.24530046  1
+  I  I10  1  0.74528541  0.00022993  0.24613457  1
+  I  I11  1  0.99977061  0.25431780  0.50080023  1
+  I  I12  1  0.25461113  0.99962610  0.75379975  1
+  I  I13  1  0.74621364  0.99970464  0.75462945  1
+  I  I14  1  0.50023853  0.75431555  0.00079304  1
+  I  I15  1  0.75386887  0.49963431  0.25468196  1
+  I  I16  1  0.24527990  0.49969931  0.25383683  1
+  I  I17  1  0.00022381  0.74561114  0.49917693  1
+  I  I18  1  0.24622030  0.50022323  0.74534089  1
+  I  I19  1  0.75462452  0.50029043  0.74619063  1

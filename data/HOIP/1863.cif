@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2BaFeBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93589689
+_cell_length_b   11.21951695
+_cell_length_c   7.93590704
+_cell_angle_alpha   89.99304426
+_cell_angle_beta   89.99998586
+_cell_angle_gamma   89.99988644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2BaFeBr6
+_chemical_formula_sum   'Cs4 Ba2 Fe2 Br12'
+_cell_volume   706.58879149
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49980962  0.24976813  0.49985984  1
+  Cs  Cs1  1  0.99980563  0.25015066  0.00012512  1
+  Cs  Cs2  1  0.50018555  0.74977094  0.50016393  1
+  Cs  Cs3  1  0.00018937  0.75015339  0.99981335  1
+  Fe  Fe4  1  0.49999764  0.99995798  0.99989814  1
+  Fe  Fe5  1  0.99999732  0.49996293  0.50008097  1
+  Ba  Ba6  1  0.99999812  0.99996487  0.49983315  1
+  Ba  Ba7  1  0.49999597  0.49995725  0.00014508  1
+  Br  Br8  1  0.49980883  0.22158967  0.99916246  1
+  Br  Br9  1  0.27795361  0.00026034  0.22118696  1
+  Br  Br10  1  0.72123589  0.00027244  0.22199284  1
+  Br  Br11  1  0.99982237  0.27833317  0.50081663  1
+  Br  Br12  1  0.27867665  0.99960450  0.77782755  1
+  Br  Br13  1  0.72212114  0.99970448  0.77862952  1
+  Br  Br14  1  0.50018619  0.77832644  0.00068980  1
+  Br  Br15  1  0.77794702  0.49965958  0.27879948  1
+  Br  Br16  1  0.22122837  0.49965637  0.27798065  1
+  Br  Br17  1  0.00017136  0.72159474  0.49928356  1
+  Br  Br18  1  0.22212668  0.50022386  0.72133900  1
+  Br  Br19  1  0.77868803  0.50031259  0.72216078  1

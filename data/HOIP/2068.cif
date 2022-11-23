@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2CuAsCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19897458
+_cell_length_b   10.17554034
+_cell_length_c   7.19899803
+_cell_angle_alpha   90.00366197
+_cell_angle_beta   89.99883728
+_cell_angle_gamma   90.00008110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CuAsCl6
+_chemical_formula_sum   'Cs4 Cu2 As2 Cl12'
+_cell_volume   527.35148625
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49987701  0.24989395  0.49988707  1
+  Cs  Cs1  1  0.99987419  0.25002265  0.00009411  1
+  Cs  Cs2  1  0.50011849  0.74989715  0.50012804  1
+  Cs  Cs3  1  0.00012004  0.75002596  0.99984991  1
+  Cu  Cu4  1  0.50000251  0.99996121  0.99977354  1
+  Cu  Cu5  1  0.99999610  0.49996722  0.50020344  1
+  As  As6  1  0.99999793  0.99996261  0.49987864  1
+  As  As7  1  0.49999704  0.49996001  0.00009931  1
+  Cl  Cl8  1  0.49988555  0.24942611  0.99968857  1
+  Cl  Cl9  1  0.25021955  0.00007830  0.24939145  1
+  Cl  Cl10  1  0.74944656  0.00005483  0.24972672  1
+  Cl  Cl11  1  0.99989156  0.25049982  0.50029291  1
+  Cl  Cl12  1  0.25057531  0.99985513  0.75019844  1
+  Cl  Cl13  1  0.74973484  0.99985522  0.75053253  1
+  Cl  Cl14  1  0.50010874  0.75049767  0.00033521  1
+  Cl  Cl15  1  0.75022025  0.49984200  0.25058817  1
+  Cl  Cl16  1  0.24943579  0.49986914  0.25026220  1
+  Cl  Cl17  1  0.00010421  0.74942396  0.49964271  1
+  Cl  Cl18  1  0.24974416  0.50006706  0.74944393  1
+  Cl  Cl19  1  0.75059553  0.50006432  0.74977192  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2SnGeBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00788720
+_cell_length_b   11.32175731
+_cell_length_c   8.00792758
+_cell_angle_alpha   89.99835030
+_cell_angle_beta   90.00001141
+_cell_angle_gamma   89.99997338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2SnGeBr6
+_chemical_formula_sum   'Cs4 Sn2 Ge2 Br12'
+_cell_volume   726.02558491
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49979942  0.24973814  0.49982134  1
+  Cs  Cs1  1  0.99979507  0.25018413  0.00016460  1
+  Cs  Cs2  1  0.50019563  0.74973769  0.50016806  1
+  Cs  Cs3  1  0.00020056  0.75018318  0.99981000  1
+  Ge  Ge4  1  0.49999861  0.99995748  0.99981201  1
+  Ge  Ge5  1  0.99999640  0.49996605  0.50016621  1
+  Sn  Sn6  1  0.99999817  0.99996638  0.49980486  1
+  Sn  Sn7  1  0.49999568  0.49995750  0.00017315  1
+  Br  Br8  1  0.49976565  0.24409592  0.99917476  1
+  Br  Br9  1  0.25553469  0.00030603  0.24365432  1
+  Br  Br10  1  0.74365942  0.00024872  0.24445850  1
+  Br  Br11  1  0.99978036  0.25582804  0.50080452  1
+  Br  Br12  1  0.25617140  0.99960545  0.75537332  1
+  Br  Br13  1  0.74462140  0.99968278  0.75617024  1
+  Br  Br14  1  0.50022840  0.75581964  0.00078267  1
+  Br  Br15  1  0.75552752  0.49961289  0.25632751  1
+  Br  Br16  1  0.24365376  0.49967855  0.25551728  1
+  Br  Br17  1  0.00021375  0.74410415  0.49918751  1
+  Br  Br18  1  0.24462642  0.50024324  0.74380107  1
+  Br  Br19  1  0.75618307  0.50030838  0.74461688  1

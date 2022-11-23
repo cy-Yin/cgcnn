@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2HgPbBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12144561
+_cell_length_b   11.46880133
+_cell_length_c   8.12144798
+_cell_angle_alpha   90.00009976
+_cell_angle_beta   89.99998609
+_cell_angle_gamma   89.99999164
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2HgPbBr6
+_chemical_formula_sum   'Cs4 Hg2 Pb2 Br12'
+_cell_volume   756.45802964
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49979640  0.24972441  0.49982125  1
+  Cs  Cs1  1  0.99979214  0.25019667  0.00016497  1
+  Cs  Cs2  1  0.50019863  0.74972383  0.50017443  1
+  Cs  Cs3  1  0.00020351  0.75019571  0.99980372  1
+  Hg  Hg4  1  0.49999941  0.99995666  0.99977679  1
+  Hg  Hg5  1  0.99999605  0.49996790  0.50020165  1
+  Pb  Pb6  1  0.99999844  0.99996716  0.49978545  1
+  Pb  Pb7  1  0.49999531  0.49995689  0.00019245  1
+  Br  Br8  1  0.49975281  0.24410278  0.99914698  1
+  Br  Br9  1  0.25540160  0.00031853  0.24373886  1
+  Br  Br10  1  0.74373280  0.00025553  0.24460178  1
+  Br  Br11  1  0.99976831  0.25582094  0.50083260  1
+  Br  Br12  1  0.25609615  0.99959381  0.75524997  1
+  Br  Br13  1  0.74475537  0.99967604  0.75610636  1
+  Br  Br14  1  0.50024105  0.75581345  0.00081346  1
+  Br  Br15  1  0.75539469  0.49960096  0.25624339  1
+  Br  Br16  1  0.24372645  0.49967249  0.25537281  1
+  Br  Br17  1  0.00022589  0.74411004  0.49915630  1
+  Br  Br18  1  0.24476178  0.50025043  0.74386464  1
+  Br  Br19  1  0.75610858  0.50032010  0.74474094  1

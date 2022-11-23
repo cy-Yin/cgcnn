@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2SiCI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.08828441
+_cell_length_b   11.79648031
+_cell_length_c   8.44458036
+_cell_angle_alpha   89.99884791
+_cell_angle_beta   90.00005061
+_cell_angle_gamma   90.00008125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2SiCI6
+_chemical_formula_sum   'Cs4 Si2 C2 I12'
+_cell_volume   805.72517606
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49999668  0.25010775  0.47913596  1
+  Cs  Cs1  1  0.00000578  0.24371747  0.99546747  1
+  Cs  Cs2  1  0.49999781  0.74373063  0.50448718  1
+  Cs  Cs3  1  0.99999061  0.75009320  0.02087101  1
+  C  C4  1  0.49999548  0.03485200  0.92265298  1
+  C  C5  1  0.00000163  0.53484947  0.57733431  1
+  Si  Si6  1  0.99999435  0.01691613  0.47240494  1
+  Si  Si7  1  0.49999645  0.51688151  0.02757946  1
+  I  I8  1  0.50000587  0.22806868  0.95822968  1
+  I  I9  1  0.24486052  0.99326686  0.26515918  1
+  I  I10  1  0.75512119  0.99326946  0.26516776  1
+  I  I11  1  0.99999475  0.23969578  0.48877996  1
+  I  I12  1  0.27299648  0.99989241  0.76548657  1
+  I  I13  1  0.72699497  0.99988536  0.76549096  1
+  I  I14  1  0.49999520  0.73966212  0.01113404  1
+  I  I15  1  0.74486217  0.49326349  0.23482887  1
+  I  I16  1  0.25512677  0.49326177  0.23482414  1
+  I  I17  1  0.00000137  0.72806767  0.54176543  1
+  I  I18  1  0.22700058  0.49987081  0.73449122  1
+  I  I19  1  0.77300672  0.49987177  0.73449767  1
