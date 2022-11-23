@@ -195,5 +195,9 @@ This software was primarily written by [Tian Xie](http://txie.me) who was advise
 
 CGCNN is released under the MIT License.
 
+# Changes of the forked repository
 
+add a new dataset "data/HOIP"
+
+run the main.py with the new dataset
 
